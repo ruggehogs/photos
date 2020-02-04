@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lotus</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2003-08-03 1557 IMG_3568 lotus elan ford sierra moo</title>
+            <link>slides/2003-08-03%201557%20IMG_3568%20lotus%20elan%20ford%20sierra%20moo.JPG</link>
+            <pubDate>Sat, 01 Feb 2020 21:21:36 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2003-08-03%201557%20IMG_3568%20lotus%20elan%20ford%20sierra%20moo.JPG" width="340" height="260"/>
+            <media:content type="image/jpeg" url="slides/2003-08-03%201557%20IMG_3568%20lotus%20elan%20ford%20sierra%20moo.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Sun, 03 Aug 2003 15:57:08 +0100" cameraMake="Canon" cameraModel="Canon DIGITAL IXUS 300"/>
+            <guid isPermaLink="false">slides/2003-08-03%201557%20IMG_3568%20lotus%20elan%20ford%20sierra%20moo.JPG</guid>
+        </item>
+        <item>
+            <title>2003-08-03 1615 IMG_3569 lotus elise moo</title>
+            <link>slides/2003-08-03%201615%20IMG_3569%20lotus%20elise%20moo.JPG</link>
+            <pubDate>Sat, 01 Feb 2020 21:21:36 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2003-08-03%201615%20IMG_3569%20lotus%20elise%20moo.JPG" width="340" height="260"/>
+            <media:content type="image/jpeg" url="slides/2003-08-03%201615%20IMG_3569%20lotus%20elise%20moo.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Sun, 03 Aug 2003 16:15:46 +0100" cameraMake="Canon" cameraModel="Canon DIGITAL IXUS 300"/>
+            <guid isPermaLink="false">slides/2003-08-03%201615%20IMG_3569%20lotus%20elise%20moo.JPG</guid>
+        </item>
+    </channel>
+</rss>
